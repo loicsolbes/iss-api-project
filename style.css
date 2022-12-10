@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Comfortaa', cursive;
+    margin: 0;
+    padding: 0;
+}
+
+.map-container {
+    margin-top: 4rem;
+}
+
+.title-container {
+    background-color: #274c77;
+}
+
+#title {
+    color: #e7ecef;
+    padding: 1em;
+    margin-top: 0;
+}
+
+#issMap {
+    margin: 0 auto;
+    width: 70%;
+    height: 400px;
+    box-shadow: 10px 10px #6096ba;
+   
+}
